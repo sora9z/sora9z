@@ -1,4 +1,4 @@
-### Hi there 👋👋👋
+### Hi there 👋👋👋. I'm Jeang 😎
 
 🌱 I am currently learning a Back-End course
 
@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sora9z)](https://github.com/anuraghazra/github-readme-stats) -->
 
-### ABOUT Repo
+### ABOUT THE STUDY OUTLINE
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sora9z&show_icons=true&theme=midnight-purple)
 
