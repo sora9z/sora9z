@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋👋👋
+
+🌱 I am currently learning a Back-End course
 
 <!--
 **sora9z/sora9z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,4 +18,8 @@ Here are some ideas to get you started:
 -->
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sora9z)](https://github.com/anuraghazra/github-readme-stats) -->
 
+### ABOUT Repo
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sora9z&show_icons=true&theme=midnight-purple)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinjunShin&layout=compact&show_icons=true&theme=algolia)
