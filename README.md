@@ -1,6 +1,6 @@
 ### Hi there 👋👋👋  I'm 9-Jeang 😎
 
-🌱 I am currently learning a Back-End course
+🌱 I am currently learning a Back-End course 🌱 
 
 <!--
 **sora9z/sora9z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
