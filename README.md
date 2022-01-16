@@ -1,4 +1,4 @@
-### Hi there 👋👋👋  I'm 9-Jeang 😎
+### Hi there 👋👋👋👋  I'm 9-Jeang 😎
 
 🌱 I am currently learning a Back-End course 🌱 
 
